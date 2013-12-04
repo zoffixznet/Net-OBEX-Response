@@ -1,0 +1,15 @@
+Build.PL
+Changes
+MANIFEST
+README
+lib/Net/OBEX/Response.pm
+lib/Net/OBEX/Response/Generic.pm
+lib/Net/OBEX/Response/Connect.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+t/kwalitee.t
+examples/parse.pl
+Makefile.PL
+META.yml
+META.json
